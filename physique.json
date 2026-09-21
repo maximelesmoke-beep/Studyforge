@@ -1,0 +1,15 @@
+{
+  "subject": "Physique",
+  "chapters": [
+    {
+      "title": "Cinématique",
+      "lesson": "Position, vitesse et accélération sont reliées par dérivation dans un référentiel donné.",
+      "exercise": "À partir de x(t)=2t²−3t, déterminer v(t) et a(t)."
+    },
+    {
+      "title": "Dynamique",
+      "lesson": "La deuxième loi de Newton relie la résultante des forces à l'accélération : ΣF=ma.",
+      "exercise": "Établir l'équation d'un mobile soumis à une force constante."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "subject": "Chimie",
+  "chapters": [
+    {
+      "title": "Quantité de matière",
+      "lesson": "La quantité de matière relie masse, masse molaire et nombre d'entités.",
+      "exercise": "Calculer n pour 5,85 g de NaCl."
+    },
+    {
+      "title": "Équations chimiques",
+      "lesson": "Une équation équilibrée respecte la conservation des éléments et de la charge quand elle s'applique.",
+      "exercise": "Équilibrer une combustion simple."
+    }
+  ]
+}

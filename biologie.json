@@ -1,0 +1,15 @@
+{
+  "subject": "Biologie",
+  "chapters": [
+    {
+      "title": "Cellule",
+      "lesson": "La cellule est l'unité structurale et fonctionnelle du vivant; procaryotes et eucaryotes diffèrent notamment par l'organisation du matériel génétique.",
+      "exercise": "Comparer une cellule bactérienne et une cellule animale."
+    },
+    {
+      "title": "Génétique",
+      "lesson": "Un gène est une séquence d'ADN contribuant à un produit fonctionnel; son expression dépend du contexte cellulaire.",
+      "exercise": "Interpréter un croisement monohybride simple."
+    }
+  ]
+}

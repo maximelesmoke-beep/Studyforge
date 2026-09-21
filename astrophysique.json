@@ -1,0 +1,15 @@
+{
+  "subject": "Astrophysique",
+  "chapters": [
+    {
+      "title": "Gravitation",
+      "lesson": "Dans le cadre newtonien, F=Gm₁m₂/r².",
+      "exercise": "Comparer la force à deux distances."
+    },
+    {
+      "title": "Étoiles",
+      "lesson": "La masse initiale influence fortement l'évolution d'une étoile.",
+      "exercise": "Expliquer le rôle de la masse dans l'évolution stellaire."
+    }
+  ]
+}

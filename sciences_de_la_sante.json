@@ -1,0 +1,15 @@
+{
+  "subject": "Sciences de la santé",
+  "chapters": [
+    {
+      "title": "Physiologie",
+      "lesson": "La physiologie étudie les fonctions normales et leurs mécanismes.",
+      "exercise": "Relier ventilation, échanges gazeux et transport de l'oxygène."
+    },
+    {
+      "title": "Anatomie",
+      "lesson": "L'anatomie décrit les structures et leurs relations, base de la compréhension fonctionnelle.",
+      "exercise": "Décrire le trajet général du sang dans les grandes circulations."
+    }
+  ]
+}

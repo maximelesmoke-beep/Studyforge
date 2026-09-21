@@ -1,0 +1,15 @@
+{
+  "subject": "Littérature",
+  "chapters": [
+    {
+      "title": "Procédés",
+      "lesson": "Une analyse relie un procédé précis à un effet interprétatif justifié par le texte.",
+      "exercise": "Identifier une métaphore et expliquer son effet."
+    },
+    {
+      "title": "Argumentation",
+      "lesson": "Une thèse se distingue des arguments et des exemples qui la soutiennent.",
+      "exercise": "Construire un paragraphe argumenté."
+    }
+  ]
+}

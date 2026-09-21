@@ -1,0 +1,15 @@
+{
+  "subject": "Informatique",
+  "chapters": [
+    {
+      "title": "Algorithmique",
+      "lesson": "La complexité décrit l'évolution des ressources lorsque la taille de l'entrée augmente.",
+      "exercise": "Comparer une boucle simple et deux boucles imbriquées."
+    },
+    {
+      "title": "Structures de données",
+      "lesson": "Le choix d'une structure dépend des opérations dominantes.",
+      "exercise": "Choisir une structure adaptée à des recherches fréquentes."
+    }
+  ]
+}

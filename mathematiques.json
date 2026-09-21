@@ -1,0 +1,15 @@
+{
+  "subject": "Mathématiques",
+  "chapters": [
+    {
+      "title": "Fonctions et limites",
+      "lesson": "Le domaine indique les valeurs pour lesquelles une expression est définie. Une limite décrit un comportement local ou à l'infini.",
+      "exercise": "Déterminer le domaine de ln(x−2)."
+    },
+    {
+      "title": "Dérivation",
+      "lesson": "La dérivée décrit le taux de variation local et permet, sous les hypothèses usuelles, d'étudier les variations.",
+      "exercise": "Étudier les variations de x³−3x."
+    }
+  ]
+}

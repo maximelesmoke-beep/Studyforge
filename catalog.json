@@ -1,0 +1,38 @@
+{
+  "version": "3.0",
+  "subjects": [
+    "Mathématiques",
+    "Physique",
+    "Chimie",
+    "Biologie",
+    "Astrophysique",
+    "Littérature",
+    "Langues",
+    "Informatique",
+    "Sciences de la santé"
+  ],
+  "dimensions": [
+    "concept",
+    "procedure",
+    "reasoning",
+    "method_choice",
+    "transfer",
+    "autonomy"
+  ],
+  "exercise_types": [
+    "direct",
+    "guided",
+    "transformed",
+    "mixed",
+    "trap",
+    "transfer",
+    "novel"
+  ],
+  "review_days": [
+    1,
+    3,
+    7,
+    14,
+    30
+  ]
+}
